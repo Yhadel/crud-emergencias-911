@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Emergencias 911 </string>
+    <string name="title_activity_main">Emergencias 911 </string>
+    <string name="package_name">com.yhadel.emergencias911</string>
+    <string name="custom_url_scheme">com.yhadel.emergencias911</string>
+</resources>
